@@ -8,6 +8,6 @@
 - Redux 
 - Axios
 
-# povered  by Advice Slip JSON API
+# powered  by Advice Slip JSON API
 
 ## visit - https://advice.satya-sudo.vercel.app/
